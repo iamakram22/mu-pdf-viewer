@@ -5,7 +5,7 @@
  *               Uses Google Docs viewer for universal mobile support.
  * Author:       Mohd Akram
  * Author URI:   https://github.com/iamakram22
- * Version:      2.0.0
+ * Version:      1.0.0
  * License:      GPL-2.0-or-later
  * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
  *
